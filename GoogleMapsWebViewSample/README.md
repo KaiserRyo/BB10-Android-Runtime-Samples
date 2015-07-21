@@ -12,7 +12,7 @@ For more information, visit [Using A WebView to access Google Maps](https://deve
 
 ## Screenshots ##
 
-![Screenshot](/screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## How To Build
 

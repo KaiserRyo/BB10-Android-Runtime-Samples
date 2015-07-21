@@ -12,7 +12,7 @@ For more information, visit [Replacing Google Maps with OpenStreetMap](https://d
 
 ## Screenshots ##
 
-![Screenshot](/screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## How To Build
 
