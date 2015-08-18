@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/app/app-debug.bar
+/app/app-debug.apk
+/app/app-release.bar
+/app/app-release.apk
+/app/app-release.wrn
+/app/app-debug.wrn
+/app/app.iml
+

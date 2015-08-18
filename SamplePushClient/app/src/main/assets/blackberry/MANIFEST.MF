@@ -1,0 +1,8 @@
+Archive-Manifest-Version: 1.1
+
+Package-Type: application
+Package-Architecture: armle-v7
+
+
+Entry-Point-Type: Qnx/Android
+Entry-Point-System-Actions: _sys_use_consumer_push

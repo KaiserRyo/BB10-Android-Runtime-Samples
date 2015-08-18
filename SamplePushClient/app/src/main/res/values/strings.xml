@@ -1,0 +1,45 @@
+<!--
+    Copyright (c) 2015 BlackBerry Limited.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    -->
+<resources>
+    <string name="app_name">SamplePushClient</string>
+    <string name="sender_id_invalid">Sender ID was not defined or is not valid</string>
+    <string name="sender_id">Sender ID:\u0020</string>
+    <string name="registration_status">Registration Status:\u0020</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="unregistered">Unregistered</string>
+    <string name="registration_id">Registration ID:\u0020</string>
+    <string name="too_many_registrations">TOO_MANY_REGISTRATIONS</string>
+    <string name="service_not_available">SERVICE_NOT_AVAILABLE</string>
+    <string name="register_status_action">REGISTER_STATUS</string>
+    <string name="register_status_extra">REGISTER_STATUS</string>
+    <string name="registration_id_extra">REGISTRATION_ID</string>
+    <string name="error_extra">ERROR</string>
+    <string name="error_message_extra">ERROR_MESSAGE</string>
+    <string name="error_dialog_title">GCM Error</string>
+    <string name="progress_dialog_title">Loading…</string>
+    <string name="progress_dialog__registering_message">Registering for GCM</string>
+    <string name="progress_dialog__unregistering_message">Unregistering from GCM</string>
+    <string name="registered">Registered</string>
+    <string name="OK">OK</string>
+    <string name="failed">FAILED</string>
+    <string name="push_message">"Push Message: "</string>
+    <string name="too_many_reg_error">Too many registrations on device</string>
+    <string name="gcm_not_avail_error">GCM Service not available. Check your internet connection</string>
+    <string name="gcm_reg_error">GCM Registration error. Make sure all push credentials are correct</string>
+    <string name="push_message_action">PUSH_MESSAGE</string>
+    <string name="push_message_extra">PUSH_MESSAGE</string>
+</resources>
